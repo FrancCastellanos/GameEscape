@@ -57,6 +57,17 @@
      <Compile Include="Assets\2DLightAsset\Scripts\Helpers\interface_touch2.cs" />
      <Compile Include="Assets\2DLightAsset\Scripts\Helpers\TablaSenoCoseno.cs" />
      <Compile Include="Assets\2DLightAsset\Scripts\rotate.cs" />
+     <Compile Include="Assets\FurBall2D\Scripts\CameraController.cs" />
+     <Compile Include="Assets\FurBall2D\Scripts\DestroyCloud.cs" />
+     <Compile Include="Assets\FurBall2D\Scripts\HitVelDetection.cs" />
+     <Compile Include="Assets\FurBall2D\Scripts\Instantiation.cs" />
+     <Compile Include="Assets\FurBall2D\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\FurBall2D_mobile\Scripts\CameraController_m.cs" />
+     <Compile Include="Assets\FurBall2D_mobile\Scripts\DestroyCloud_m.cs" />
+     <Compile Include="Assets\FurBall2D_mobile\Scripts\PlayerController_m.cs" />
+     <Compile Include="Assets\Orc Warrior\Scripts\MouseController.cs" />
+     <Compile Include="Assets\Scripts\AnimationWolf.cs" />
+     <Compile Include="Assets\Scripts\ChargeMovement.cs" />
      <None Include="Assets\2DLightAsset\Shaders\Gradient-NoTexture-Radial-SingleColor-ToTransparent-RegularUV-AlphaBlend.shader" />
      <None Include="Assets\2DLightAsset\Shaders\NoTexture.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
