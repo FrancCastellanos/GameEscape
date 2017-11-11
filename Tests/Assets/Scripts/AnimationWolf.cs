@@ -11,7 +11,7 @@ public class AnimationWolf : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		anim =  GetComponent<Animator>();
-		anim.Play ("Wolf_walk");
+		//anim.Play ("Wolf_walk");
 		
 	}
 	

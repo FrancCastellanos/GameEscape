@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Fly
   - Enemy
+  - Goal
   layers:
   - Default
   - TransparentFX

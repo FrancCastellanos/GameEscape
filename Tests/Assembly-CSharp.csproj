@@ -68,6 +68,7 @@
      <Compile Include="Assets\Orc Warrior\Scripts\MouseController.cs" />
      <Compile Include="Assets\Scripts\AnimationWolf.cs" />
      <Compile Include="Assets\Scripts\ChargeMovement.cs" />
+     <Compile Include="Assets\Scripts\ToMap2.cs" />
      <None Include="Assets\2DLightAsset\Shaders\Gradient-NoTexture-Radial-SingleColor-ToTransparent-RegularUV-AlphaBlend.shader" />
      <None Include="Assets\2DLightAsset\Shaders\NoTexture.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />

@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class ChargeMovement : MonoBehaviour {
 
@@ -35,7 +37,8 @@ public class ChargeMovement : MonoBehaviour {
 	void OnCollisionEnter2D (Collision2D collision){
 		Debug.Log("Collided");
 		if (collision.gameObject.name == "CharacterRobotBoy") {
-			enemyObject.position = spawnPoint.position;
+			//enemyObject.position = spawnPoint.position;
+			SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
 		}
 	}
 }
